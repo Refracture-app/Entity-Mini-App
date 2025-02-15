@@ -1,0 +1,38 @@
+{
+  "layers": {
+    "1": {
+      "speed": 0.05,
+      "size": 1.6,
+      "xaxis": 1440,
+      "yaxis": 1380,
+      "drift": 0.1,
+      "direction": -1,
+      "angle": -194.21000000001186,
+      "blendMode": "color-dodge",
+      "driftState": {
+        "x": 9.550713323331806,
+        "y": 11.56649795813462,
+        "startTime": 1739241222530,
+        "enabled": false
+      },
+      "driftSpeed": 0.3
+    },
+    "2": {
+      "speed": 0.035,
+      "size": 1.6,
+      "xaxis": 2210,
+      "yaxis": 1920,
+      "drift": 0.2,
+      "direction": 1,
+      "angle": 63.38500000005527,
+      "blendMode": "normal",
+      "driftState": {
+        "x": -28.71778996614757,
+        "y": -8.676896879658889,
+        "startTime": 1739241222530,
+        "enabled": false
+      },
+      "driftSpeed": 0.1
+    }
+  }
+}
